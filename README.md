@@ -2,11 +2,11 @@
 
 ### Supply Chain × Technology × Artificial Intelligence
 
-**Environmental Engineer · MBA in Logistics & Supply Chain Management · Brazil**
+**Environmental Engineer (UNIFEI) · MBA in Logistics & Supply Chain Management at FGV (in progress) · Brazil**
 
 I work at the intersection of **industrial operations, data analytics and digital innovation**. I turn real operational challenges into practical digital tools using AI-assisted development, automation and data-driven thinking.
 
-My background is in **materials planning, MRO inventory and supply chain operations**. I use technology to streamline processes, connect information and support better decisions — combining operational knowledge with a hands-on, continuously learning approach to software development.
+I work at **FS Fueling Sustainability**, with a focus on **materials planning, MRO inventory and supply chain operations**. I use technology to streamline processes, connect information and support better decisions — combining operational knowledge with a hands-on, continuously learning approach to software development.
 
 ### Areas of focus
 
@@ -20,10 +20,10 @@ My background is in **materials planning, MRO inventory and supply chain operati
 
 | Area | Tools |
 | --- | --- |
-| AI-assisted development | OpenAI Codex, GitHub |
+| AI-assisted development | OpenAI Codex, Git, GitHub |
 | Web & visualization | HTML, CSS, JavaScript, TypeScript, Vite, Three.js |
 | Data & analytics | SQL, Databricks, Power BI, Power Query, DAX |
-| Automation | Power Apps, Power Automate, SharePoint |
+| Automation | Power Apps, Power Automate, SharePoint, Microsoft Lists |
 | Enterprise operations | SAP, materials planning & MRP workflows |
 
 ### What I'm exploring
@@ -32,6 +32,14 @@ My background is in **materials planning, MRO inventory and supply chain operati
 - Simpler ways to automate operational processes
 - Interactive dashboards and digital representations of physical operations
 - Practical applications of AI in industrial workflows
+
+### Featured projects
+
+Selected projects will be added here as they become ready for public sharing, with clear documentation of the business problem, approach and technologies used.
+
+### Connect
+
+[LinkedIn](https://www.linkedin.com/in/guilhermehenriquecruz/)
 
 ---
 
